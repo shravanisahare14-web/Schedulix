@@ -1,0 +1,16 @@
+task_id,task_name,duration,deadline,priority,required_skill,dependencies
+T1,Requirement Analysis,4,8,5,Business,
+T2,System Design,6,16,5,Architecture,T1
+T3,Database Design,5,20,4,Database,T2
+T4,Backend API Development,10,32,5,Backend,T3
+T5,Frontend UI Development,12,36,5,Frontend,T2
+T6,Authentication Module,6,28,4,Backend,T4
+T7,Payment Gateway Integration,5,40,4,Backend,T6
+T8,Dashboard Development,8,44,3,Frontend,T5
+T9,Reporting Module,6,48,3,Frontend,T8
+T10,Unit Testing,4,52,4,QA,T6
+T11,Integration Testing,5,56,5,QA,T10
+T12,Performance Testing,4,60,3,QA,T11
+T13,Bug Fixing,6,64,4,Backend,T12
+T14,Security Audit,5,68,5,Security,T13
+T15,Deployment,4,72,5,DevOps,T14

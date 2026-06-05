@@ -1,0 +1,6 @@
+resource_id,resource_name,skills,capacity_hours
+R1,Alice,Backend|Database,8
+R2,Bob,Frontend,8
+R3,Charlie,QA,8
+R4,Diana,DevOps|Security,8
+R5,Ethan,Architecture|Business,8

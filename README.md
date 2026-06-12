@@ -166,7 +166,7 @@ Google OR-Tools
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Schedulix.git
+git clone https://github.com/shravanisahare14-web/Schedulix.git
 ```
 
 Move into project directory:
